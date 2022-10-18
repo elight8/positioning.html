@@ -47,7 +47,7 @@
   background-color: green; 
   margin-top: -40px;
   position: relative;
-  left: 70px
+  left: 70px;
 
   
   
@@ -58,7 +58,7 @@
   background-color: gold; 
   margin-top: -40px;
   position: relative;
-  left: 150px
+  left: 150px;
   
 } 
 .blue2 {
@@ -67,14 +67,14 @@
   background-color: blue; 
   margin-top: -40px;
   position: relative;
-  left: 210px
+  left: 210px;
   
 } 
 /* Activity 3 styles */ 
 .content3 {
   display:grid;
   grid-template-columns: 1fr 1fr 1fr; 
-  grid-column-gap:
+  grid-column-gap: 80px
   /* justify-items:center; */
   
   /* This is the parent of the activity 3 boxes. */
